@@ -8,6 +8,7 @@
 +**LoRa E22-400T37S** RF <br>
 +**L86-M33** GNSS <br>
 
+<p float="left">
 <img src="/Project Outputs for edirnekapi/3DviewFront.png" width="300" height="375">
 <img src="/Project Outputs for edirnekapi/3DviewBack.png" width="300" height="375">  
-
+</p>
