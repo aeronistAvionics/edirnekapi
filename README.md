@@ -1,8 +1,8 @@
 # Edirnekapı 
 ÇGM GÖK-HAN Roket Takımı 2023-2024 Yüksek İrtifa Uçuş Bilgisayarı <br>
 
-<img src="/Project Outputs for edirnekapi/3DviewBack.png">
-<img src="/Project Outputs for edirnekapi/3DviewFront.png">  
+<img src="/Project Outputs for edirnekapi/3DviewFront.png">
+<img src="/Project Outputs for edirnekapi/3DviewBack.png">  
 
 +**STM32F446RET6** Mikroişlemci <br>
 +**BME280** Basınç, Sıcaklık ve Nem Sensörü <br>
